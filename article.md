@@ -107,3 +107,66 @@ Jestli ale bude SARS-CoV-2 skutečně mutovat, se odborníci zdráhají odhadova
 Vakcíny se zatím vyvíjejí, podle odborníků to ale nebude dřív než za několik měsíců, vytvoření vhodné vakcíny by ale mohlo trvat i rok.
 
 Například americká farmaceutická společnost Moderna už nicméně oznámila, že poslala na testování první možnou vakcínu proti novému koronaviru. Očkovací látku s názvem mRNA-1273 bude na pacientech zkoušet americký Národní institut alergií a infekčních chorob. První výsledky budou známy nejdříve v červenci.
+
+## Koronavirus na dohled od českých hranic. S&nbsp;reportérkou iROZHLAS.cz o všem, co o hrozbě víme
+
+Lenka Kabrhelová mluví s reportérkou serveru iROZHLAS.cz Eliškou Kubátovou.
+
+<div class="b-podcast__player b-podcast__player--fixed">			
+      <div class="b-audio-player b-audio-player--podcast js-audio" data-audio-name="irozhlas | iROZHLAS podcast | Zprávy z domova | Koronavirus na dohled od českých hranic. S reportérkou iROZHLAS.cz o všem, co o hrozbě víme   || 2020-02-27 | iROZHLAS | 9210657">				
+        <div class="js-out">					
+          <audio controls="">						
+            <source src="https://www.irozhlas.cz/sites/default/files/audios/b87cde7d35096b9ab753bcfcef0d12c7.mp3" type="audio/mpeg">Váš prohlížeč nepodporuje přehrávání audia. 					
+          </audio>				
+        </div>				
+        <div class="b-audio-player__controls">					
+          <a href="#" class="b-audio-player__play play-btn">Přehrát 						
+            <span class="icon-svg icon-svg--play ">	
+              <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">		
+                <use xlink:href="https://www.irozhlas.cz/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-play" x="0" y="0" width="100%" height="100%">
+                </use>	
+              </svg>
+            </span>						
+            <span class="icon-svg icon-svg--pause ">	
+              <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">		
+                <use xlink:href="https://www.irozhlas.cz/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-pause" x="0" y="0" width="100%" height="100%">
+                </use>	
+              </svg>
+            </span>
+          </a>					
+          <p class="b-audio-player__time">00:00 / 25:16</p>					
+          <p class="b-audio-player__sound">						
+            <span class="b-audio-player__mute">							
+              <span class="icon-svg icon-svg--speaker ">	
+                <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">		
+                  <use xlink:href="https://www.irozhlas.cz/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-speaker" x="0" y="0" width="100%" height="100%">
+                  </use>	
+                </svg>
+              </span>						
+            </span>						
+            <span class="b-audio-player__sound-bar">							
+              <span class="icon-svg icon-svg--audio-player-dots ">	
+                <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">		
+                  <use xlink:href="https://www.irozhlas.cz/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-audio-player-dots" x="0" y="0" width="100%" height="100%">
+                  </use>	
+                </svg>
+              </span>							
+              <span class="b-audio-player__sound-progress" style="width: 100%;">								
+                <span class="icon-svg icon-svg--audio-player-dots ">	
+                  <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">		
+                    <use xlink:href="https://www.irozhlas.cz/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-audio-player-dots" x="0" y="0" width="100%" height="100%">
+                    </use>	
+                  </svg>
+                </span>							
+              </span>						
+            </span>					
+          </p>					
+          <div class="b-audio-player__bar">						
+            <div class="b-audio-player__progress"></div>					
+          </div>				
+        </div>	
+      </div>		
+    </div>
+<br>
+
+Zpravodajský podcast Vinohradská 12 sledujte každý všední den od 6.00 na adrese [irozhlas.cz/vinohradska12](https://www.irozhlas.cz/vinohradska12).
