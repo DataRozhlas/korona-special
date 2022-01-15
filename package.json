@@ -30,7 +30,7 @@
     "eslint-plugin-jsx-a11y": "^2.0.0",
     "eslint-plugin-react": "^7.18.3",
     "js-yaml": "^3.13.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "webpack": "^4.41.0"
   }
 }
